@@ -22,5 +22,11 @@
             <description>El lenguaje PHP</description>
             <author>Fernando Paniagua</author>
         </item>
+        <item>
+            <title>C++</title>
+            <link>https://www.paraninfo.es/rss/php.html</link>
+            <description>El lenguaje C++</description>
+            <author>Alberto Teruel</author>
+        </item>
     </channel>
 </rss>
