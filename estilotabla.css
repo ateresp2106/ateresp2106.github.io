@@ -1,8 +1,0 @@
-table{font-family: arial;margin-left: 50px;text-align: center;border: 1px solid;border-collapse: collapse;border-color: silver}
-tr,td,th{font-size: 25px;border: 1px solid;border-collapse: collapse;border-color: silver}
-caption { font-size: 50px; font-weight: bold;}
-.colorverde {background-color: darkcyan;font-size: 23px; color: white;font-weight: bold; height: 60px; width: 70px;}
-.colorverdepro {background-color: darkcyan;font-size: 23px; color: white;font-weight: bold; height: 60px; width: 200px;}
-.colorverdepre {background-color: darkcyan;font-size: 23px; color: white;font-weight: bold; height: 60px; width: 115px;}
-.colorgris {background-color: lightgrey;font-size: 25px;}
-.final{margin-left: 110px;font-family: arial;font-size: 35px;}
