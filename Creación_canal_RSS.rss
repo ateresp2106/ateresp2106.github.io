@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias</title>
+        <link>https://www.paraninfo.es/rss</link>
+        <description>Canal sobre Noticias</description>
+        <item>
+            <title>La letra pequeña del decreto ómnibus</title>
+            <link>https://www.elmundo.es/espana/2025/01/27/67967302e85ece70788b456f.html</link>
+            <description>Más allá de las pensiones, habrá: 42 reformas, 20 prórrogas y un palacete</description>
+            <author>Alberto Teruel Espejo</author>
+        </item>
+        <item>
+            <title>Relación entre Colombia y EEUU</title>
+            <link>https://www.elmundo.es/internacional/2025/01/26/67968db6fc6c83f4208b458b.html</link>
+            <description>Hacen las paces tras una guerra comercial de ocho horas en las redes sociales</description>
+            <author>Alberto Teruel Espejo</author>
+        </item>
+        <item>
+           <title>Sánchez se aísla ante la amenaza de colapso de la legislatura</title>
+            <link>https://www.elmundo.es/espana/2025/01/25/679512c8fc6c83c5368b4580.html</link>
+            <description>"Las elecciones están descartadas, no nos convienen ni a nosotros ni a Junts"</description>
+            <author>Alberto Teruel Espejo</author>
+        </item>
+    </channel>
+</rss>
