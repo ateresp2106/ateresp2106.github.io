@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Noticias</title>
+    <link>https://www.elmundo.es/internacional.html</link>
+    <description>Página en la cuál se guardan todas las noticias</description>
+    <item>
+        <title>mensaje de Hamas sobre Trump</title>
+        <link>https://www.elmundo.es/internacional/2025/02/05/67a311b6fdddff769d8b4597.html</link>
+        <description>Hamas afirma que las declaraciones de Trump sobre la toma de Gaza pueden "incendiar" la región</description>
+        <comments>https://www.elmundo.es/internacional/2025/02/05/67a311b6fdddff769d8b4597.html</comments>
+        <author>Reuters</author>
+    </item>
+    <item>
+        <title>Trump recibe a Netanyahu en la Casa Blanca</title>
+        <link>https://www.elmundo.es/internacional/2025/02/04/67a287d921efa0c74a8b45bd.html</link>
+        <description>Trump recibe a Netanyahu en la Casa Blanca y dice que EEUU "se hará con el control de la Franja de Gaza", expulsará a los palestinos, y la convertirá en la "Riviera de Oriente Próximo"</description>
+        <comments>https://www.elmundo.es/internacional/2025/02/04/67a287d921efa0c74a8b45bd.html</comments>
+        <author>Pablo R. Suanzes</author>
+    </item>
+    <item>
+        <title>Melonia y las deportaciones</title>
+        <link>https://www.elmundo.es/internacional/2025/02/03/679f86ce21efa07d638b4582.html</link>
+        <description>La imputación de Meloni y las deportaciones a Albania recrudecen el choque entre el Gobierno y la Justicia en Italia</description>
+        <comments>https://www.elmundo.es/internacional/2025/02/03/679f86ce21efa07d638b4582.html</comments>
+        <author>Manuel Tori</author>
+    </item>
+    <item>
+        <title>La guerra entre Rusia y Ucrania aún sigue</title>
+        <link>https://www.elmundo.es/internacional/2025/02/02/679fa94421efa0c8788b4580.html</link>
+        <description>Los avances de Rusia en Ucrania se ralentizan, pero la presión sigue alta en el frente</description>
+        <comments>https://www.elmundo.es/internacional/2025/02/02/679fa94421efa0c8788b4580.html</comments>
+        <author>Rostyslav Averchuk</author>
+    </item>
+</channel>
+</rss>

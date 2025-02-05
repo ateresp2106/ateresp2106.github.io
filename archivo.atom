@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Noticias</title>
+    <link href="https://www.elmundo.es/internacional.html">
+    <updated>2025-02-05</updated>
+    <author>
+        <name>EL MUNDO</name>
+    </author>
+    <id>https://www.elmundo.es/internacional.html/feed/</id>
+    <entry>
+        <title>mensaje de Hamas sobre Trump</title>
+        <link href="https://www.elmundo.es/internacional/2025/02/05/67a311b6fdddff769d8b4597.html">
+        <id>https://www.elmundo.es/internacional/2025/02/05/67a311b6fdddff769d8b4597.html</id>
+        <summary>Hamas afirma que las declaraciones de Trump sobre la toma de Gaza pueden "incendiar" la región</summary>
+        <updated>2025-02-05</updated>
+        <autor>Reuters</autor>
+    </entry>
+    <entry>
+        <title>Trump recibe a Netanyahu en la Casa Blanca</title>
+        <link href="https://www.elmundo.es/internacional/2025/02/04/67a287d921efa0c74a8b45bd.html">
+        <id>https://www.elmundo.es/internacional/2025/02/04/67a287d921efa0c74a8b45bd.html</id>
+        <summary>Trump recibe a Netanyahu en la Casa Blanca y dice que EEUU "se hará con el control de la Franja de Gaza", expulsará a los palestinos, y la convertirá en la "Riviera de Oriente Próximo"</summary>
+        <updated>2025-02-05</updated>
+        <autor>Pablo R. Suanzes</autor>
+    </entry>
+    <entry>
+        <title>Melonia y las deportaciones</title>
+        <link href="https://www.elmundo.es/internacional/2025/02/03/679f86ce21efa07d638b4582.html">
+        <id>https://www.elmundo.es/internacional/2025/02/03/679f86ce21efa07d638b4582.html</id>
+        <summary>La imputación de Meloni y las deportaciones a Albania recrudecen el choque entre el Gobierno y la Justicia en Italia</summary>
+        <updated>2025-02-03</updated>
+        <autor>Manuel Tori</autor>
+    </entry>
+    <entry>
+        <title>La guerra entre Rusia y Ucrania aún sigue</title>
+        <link href="https://www.elmundo.es/internacional/2025/02/02/679fa94421efa0c8788b4580.html">
+        <id>https://www.elmundo.es/internacional/2025/02/02/679fa94421efa0c8788b4580.html</id>
+        <summary>Los avances de Rusia en Ucrania se ralentizan, pero la presión sigue alta en el frente</summary>
+        <updated>2025-02-02</updated>
+        <autor>Rostyslav Averchuk</autor>
+    </entry>
+</feed>
